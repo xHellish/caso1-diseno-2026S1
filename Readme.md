@@ -47,15 +47,15 @@ Describe step by step what happens on each screen in terms of actions (nothing a
 Action: The user provides their identity and confirms their access through a second authentication factor.
 Result: The system validates the permissions associated with the role (agent, auditor or administrator) and establishes a secure and encrypted session.
 
-### 1.2.1.2 Configurar el generador
+### 1.2.1.2 Configure generator
 Action: The user provides the source documentation (invoices, transport documents or Excel files) to the system.
 Result: The system classifies the files and prepares the extraction engines (OCR/AI) to process the information according to the type of document.
 
-### 1.2.1.3 Monitoreo del avance
+### 1.2.1.3 Progress monitoring
 Action: The user monitors the progress of the document processing and the status of the ingestion queue.
 Result: The system reports in real time on the success of the extraction or if anomalies have been detected that require manual intervention.
 
-### 1.2.1.4 Obtención del resultado
+### 1.2.1.4 Result obtention
 Action: The user reviews the DUA fields generated automatically and corrects any discrepancies detected by the system.
 Result: The system consolidates the validated information and prepares the document for submission to the customs authorities.
 
@@ -70,15 +70,15 @@ Login
 - Login screen with fields for username and password, and login button.
 ![wireframe1](login_wireframe.png)
 
-Configurar el generador
+Configure generator
 - Generator configuration screen with fields to explore files, and cancel engine preparation.
 ![wireframe2](configurar_generador_wireframe.png)
 
-Monitoreo del avance
+Progress monitoring
 - Progress monitoring screen with fields to view the progress of document processing and the status of the ingestion queue.
 ![wireframe3](monitoreo_avance_wireframe.png)
 
-Obtención del resultado
+Result obtention
 - Result obtention screen with fields to view the DUA fields generated automatically and correct any discrepancies detected by the system.
 ![wireframe4](obtencion_resultado_wireframe.png)
 
