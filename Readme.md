@@ -88,15 +88,16 @@ Logout
 
 
 ### UX test results
+For this UX test, Figma was used to simulate the user's actions and record the heatmaps (with Maze integration).
 
 ### Table with the test results
 
-| Participante | Estado | Tiempo Total | Pantallas Visitadas | Observación de Navegación |
+| Participant | State | Total Time | Screens Visited | Navigation Observation |
 | --- | --- | --- | --- | --- |
-| P1 | Completado | 46.2s | 6 | Navegación lineal y rápida. |
-| P2 | Completado | 62.4s | 8 | Exploración recurrente entre Monitoreo y Resultados. |
-| P3 | Completado | 93.5s | 11+ | Ruta errática; regresó varias veces al inicio antes de terminar. |
-| PROMEDIO | - | 67.4s | 8.3 | Flujo con alta carga de exploración. |
+| P1 | Completed | 46.2s | 6 | Linear and fast navigation. |
+| P2 | Completed | 62.4s | 8 | Recurrent exploration between Monitoring and Results. |
+| P3 | Completed | 93.5s | 11+ | Erratic path; returned several times to the start before completing. |
+| Average | - | 67.4s | 8.3 | High exploration flow. |
 
 ### Evidence of the test execution
 
