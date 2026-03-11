@@ -89,13 +89,44 @@ Logout
 
 ### UX test results
 
-- app to run the UX test to 3 people
-- create a MD table with the test results
-- Evidence of the test execution
-![evidencias_ux_test](evidencias_ux_test.png)
+### Table with the test results
 
-- Heatmap
-![heatmap](heatmap.png)
+| Participante | Estado | Tiempo Total | Pantallas Visitadas | Observación de Navegación |
+| --- | --- | --- | --- | --- |
+| P1 | Completado | 46.2s | 6 | Navegación lineal y rápida. |
+| P2 | Completado | 62.4s | 8 | Exploración recurrente entre Monitoreo y Resultados. |
+| P3 | Completado | 93.5s | 11+ | Ruta errática; regresó varias veces al inicio antes de terminar. |
+| PROMEDIO | - | 67.4s | 8.3 | Flujo con alta carga de exploración. |
+
+### Evidence of the test execution
+
+Clip of the test execution
+<video src="./heatmaps%20UX%20Test/evidence_clip.mp4" controls width="100%">
+  Your Markdown viewer does not support embedded video.
+</video>
+
+Start of the test for all users
+![evidence_login_start](./heatmaps%20UX%20Test/evidencia_login.png)
+
+End of the test for all users
+![evidence_login_end](./heatmaps%20UX%20Test/evidencia_fin.png)
+
+### Heatmaps
+
+Heatmap of the login page
+![heatmap_login](./heatmaps%20UX%20Test/login_heatmap.jpg)
+
+Heatmap of the ingestion page
+![heatmap_ingestion](./heatmaps%20UX%20Test/ingestion_heatmap.jpg)
+
+Heatmap of the dashboard page
+![heatmap_dashboard](./heatmaps%20UX%20Test/dashboard_heatmap.jpg)
+
+Heatmap of the review page
+![heatmap_review](./heatmaps%20UX%20Test/review_heatmap.jpg)
+
+Heatmap of the settings page
+![heatmap_settings](./heatmaps%20UX%20Test/settings_heatmap.jpg)
 
 
 ## 1.3 Component Design Strategy
