@@ -101,7 +101,7 @@ For this UX test, Figma was used to simulate the user's actions and record the h
 
 ### Evidence of the test execution
 
-Clip of the test execution
+Clip of the test execution (download from ./heatmaps UX Test/evidence_clip.mp4)
 <video src="./heatmaps%20UX%20Test/evidence_clip.mp4" controls width="100%">
   Your Markdown viewer does not support embedded video.
 </video>
